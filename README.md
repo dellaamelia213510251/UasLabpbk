@@ -1,3 +1,7 @@
+# UAS LAB PBK
+NAMA  : Della Resty Amelia
+NPM   : 213510251
+
 # uaslabpbk
 
 ## Project setup
